@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=PHASE1 Pin=C11-1
+Removed Pin From Net: NetName=+5V0 Pin=C11-2
+Change Component Comment : Designator=L1 Old Comment=2.2uH New Comment=6.8uH
+Change component parameters: Designator = "L1" ("L1"); Footprint = "DR125_Inductor"; UniqueID = "\EKWQYXCT" ("\EKWQYXCT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/eaton-electronics-division/DR125-6R8-R/667158"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Eaton - Electronics Division"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "DR125-6R8-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1.22"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "513-1530-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suppplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Added Component: Designator=L2(DR125_Inductor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/eaton-electronics-division/DR125-8R2-R/667161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Eaton - Electronics Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "DR125-8R2-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxTemp"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinTemp"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = "513-1823-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PHASE1 Pin=L2-1
+Added Pin To Net: NetName=+5V0 Pin=L2-2
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component L2 8.2uH
+Added Room: Name=Switching_Power_Supply_V2[01]

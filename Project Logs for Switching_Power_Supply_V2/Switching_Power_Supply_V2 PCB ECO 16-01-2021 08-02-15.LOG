@@ -1,0 +1,137 @@
+Added Component: Designator=C1(Capacitor_0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805JKX7R9BB105/7164382"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CC0805JKX7R9BB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxTemp"; Value = " 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinTemp"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = "311-3498-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Capacitor_0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C475J8RACAUTO/7427538"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "C0805C475J8RACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxTemp"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinTemp"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.53"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = "399-15708-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Capacitor_0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C103J5HACAUTO/7516211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "C0805C103J5HACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxTemp"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = "399-15977-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Capacitor_0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C104J5RACTU/411170"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "C0805C104J5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxTemp"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinTemp"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = "399-1171-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESISTOR0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0603ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temp"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Temp"; Value = "-55°C "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESISTOR0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ100V/82966"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "ERJ-6GEYJ100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxTemp"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = "P10ACT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESISTOR0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF2003V/111933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "ERJ-6ENF2003V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxTemp"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = "P200KCCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESISTOR0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF2003V/111933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "ERJ-6ENF2003V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxTemp"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = "P200KCCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESISTOR0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF2003V/111933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "ERJ-6ENF2003V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxTemp"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = "P200KCCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESISTOR0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF2003V/111933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "ERJ-6ENF2003V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxTemp"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = "P200KCCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5_PVCC Pin=R2-1
+Added Net: Name=+5_PVCC
+Added Pin To Net: NetName=+5_VCC Pin=C1-1
+Added Pin To Net: NetName=+5_VCC Pin=R1-1
+Added Pin To Net: NetName=+5_VCC Pin=R2-2
+Added Pin To Net: NetName=+5_VCC Pin=R5-2
+Added Pin To Net: NetName=+5_VCC Pin=R6-2
+Added Net: Name=+5_VCC
+Added Pin To Net: NetName=+5LDO Pin=C2-2
+Added Pin To Net: NetName=+5LDO Pin=R1-2
+Added Net: Name=+5LDO
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Net: Name=NetR6_1
+Added Class: Name=Switching_Power_Supply_V2[01]
+Added Room: Name=Switching_Power_Supply_V2[01]

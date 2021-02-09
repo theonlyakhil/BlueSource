@@ -1,0 +1,298 @@
+Removed Pin From Net: NetName=+5_VCC Pin=C4-1
+Removed Pin From Net: NetName=+VIN Pin=R1-1
+Removed Pin From Net: NetName=+5_VCC Pin=R2-1
+Removed Pin From Net: NetName=+5_VCC Pin=R3-2
+Removed Pin From Net: NetName=+5_VCC Pin=u1-3
+Removed Member From Class: ClassName=Switching_Power_Supply_V2[01] Member=R3
+Change Component Designator: OldDesignator=L2 NewDesignator=C11
+Change Component Description : Designator=L1 Old Description=2.2µH Shielded Wirewound Inductor 10.9A 4.5mOhm Nonstandard New Description=2.2µH Shielded Wirewound Inductor 10.9A 4.5mOhm Nonstandard 
+Change Component Description : Designator=C11 Old Description=3.3µH Shielded Wirewound Inductor 9.26A 6.3mOhm Nonstandard New Description=3.3µH Shielded Wirewound Inductor 9.26A 6.3mOhm Nonstandard 
+Change component parameters: Designator = "C1" ("C1"); Footprint = "Capacitor_0805"; UniqueID = "\RRSCXGSV" ("\RRSCXGSV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805JKX7R9BB105/7164382"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "CC0805JKX7R9BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = " 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "311-3498-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "Capacitor_0805"; UniqueID = "\OPRBNWEF" ("\OPRBNWEF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805JKX7R9BB105/7164382"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "CC0805JKX7R9BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = " 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "311-3498-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "Capacitor_0805"; UniqueID = "\PULDVQFK" ("\PULDVQFK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805JKX7R9BB105/7164382"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "CC0805JKX7R9BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = " 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "311-3498-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C7343"; UniqueID = "\XWWKOOWX" ("\XWWKOOWX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/T530X337M010ATE004/3760653"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "T530X337M010ATE004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = " 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "5.57"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "399-10378-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "C7343"; UniqueID = "\AGVAWLTC" ("\AGVAWLTC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/T530X337M010ATE004/3760653"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "T530X337M010ATE004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = " 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "5.57"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "399-10378-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "0603_LED"; UniqueID = "\WQXKYYXV" ("\WQXKYYXV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/sunled/XZVG53W-8/4745971"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "XZVG53W-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Temp"; Value = " +85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Temp"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "1497-1215-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "0603_LED"; UniqueID = "\ARYPAZKL" ("\ARYPAZKL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/sunled/XZVG53W-8/4745971"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "XZVG53W-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Temp"; Value = " +85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Temp"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "1497-1215-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "DR125_Inductor"; UniqueID = "\EUMVDUDF" ("\EUMVDUDF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/eaton-electronics-division/DR125-2R2-R/667148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Eaton - Electronics Division"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "DR125-2R2-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = " 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1.23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "513-1662-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "Capacitor_0805"; UniqueID = "\CQDJNFFZ" ("\CQDJNFFZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C103J5HACAUTO/7516211"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "C0805C103J5HACAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.79"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "399-15977-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "Capacitor_0805"; UniqueID = "\AVPRASFN" ("\AVPRASFN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C224J5RACAUTO/10642470"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "399-C0805C224J5RACAUTOCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "C0805C224J5RACAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.84"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "399-C0805C224J5RACAUTOCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "Capacitor_0805"; UniqueID = "\DPHEAYVR" ("\DPHEAYVR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C224J5RACAUTO/10642470"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "399-C0805C224J5RACAUTOCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "C0805C224J5RACAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.84"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "399-C0805C224J5RACAUTOCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESISTOR0603"; UniqueID = "\XTTKQBRN" ("\XTTKQBRN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0603ZT0R00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Temp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Temp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESISTOR0805"; UniqueID = "\KOIQFPAN" ("\KOIQFPAN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF2003V/111933"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "ERJ-6ENF2003V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "P200KCCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESISTOR0805"; UniqueID = "\HVSEWDNI" ("\HVSEWDNI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF2003V/111933"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "ERJ-6ENF2003V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "P200KCCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESISTOR0805"; UniqueID = "\KVDNLAOI" ("\KVDNLAOI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6RQF1R0V/250172"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "ERJ-6RQF1R0V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.32"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "P1.0DCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESISTOR0805"; UniqueID = "\PILXSWYI" ("\PILXSWYI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF2003V/111933"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "ERJ-6ENF2003V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "P200KCCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESISTOR0805"; UniqueID = "\ARYSHDXC" ("\ARYSHDXC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF2003V/111933"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "ERJ-6ENF2003V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "P200KCCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESISTOR0603"; UniqueID = "\OHZEXFDG" ("\OHZEXFDG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0603ZT0R00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Temp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Temp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESISTOR0603"; UniqueID = "\ZXKQMTRC" ("\ZXKQMTRC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0603ZT0R00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Temp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Temp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESISTOR0603"; UniqueID = "\CNMNUQVD" ("\CNMNUQVD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0603ZT0R00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Temp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Temp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESISTOR0603"; UniqueID = "\RMLICVDC" ("\RMLICVDC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0603ZT0R00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Temp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Temp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RESISTOR0603"; UniqueID = "\HOKFWBGU" ("\HOKFWBGU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0603ZT0R00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Temp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Temp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "RESISTOR0805"; UniqueID = "\QNQGWYCD" ("\QNQGWYCD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6RQF1R0V/250172"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "ERJ-6RQF1R0V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.32"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "P1.0DCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "RESISTOR0603"; UniqueID = "\UUCDVKQN" ("\UUCDVKQN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0603ZT0R00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Temp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Temp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "RESISTOR0603"; UniqueID = "\LCUACLOC" ("\LCUACLOC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0603ZT0R00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Temp"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Temp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "u1" ("u1"); Footprint = "32QFN"; UniqueID = "\PUOXTMMI" ("\PUOXTMMI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/renesas-electronics-america-inc/ISL6236AIRZ/1976644"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Renesas Electronics America Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "ISL6236AIRZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "100°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-40°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "3.90080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "ISL6236AIRZ-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5_VCC Pin=C2-2
+Added Pin To Net: NetName=+5_VCC Pin=u1-19
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R2-1
+Added Pin To Net: NetName=NetC4_1 Pin=u1-3
+Added Net: Name=NetC4_1
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component C1 1uF (50V)
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component C2 1uF (50V)
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component C4 1uF (50V)
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component C7 0.01uF (50V)
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component C8 0.22uF (50V)
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R2 0R(0603 in )
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R5 200K (1%)
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R6 1R 1%
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R7 220R
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R8 165R(1%)
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R9 200K (1%)
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R10 200K (1%)
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R11 0R(0603 in )
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R12 0R(0603 in )
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R14 0R(0603 in )
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R16 10K
+Added Member To Class: ClassName=Switching_Power_Supply_V2[01] Member=Component R18 1R 1%
+Added Room: Name=Switching_Power_Supply_V2[01]
