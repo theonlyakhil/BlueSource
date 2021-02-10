@@ -8,7 +8,7 @@ The circuit will give two set of outputs 5V and 3.3V . For further controlling t
 
 
 **Layer2**
-![plot] (./PCB Pics/layer2.PNG)
+![plot](https://github.com/theonlyakhil/BlueSource/blob/main/PCB%20Pics/layer1.PNG)
 
 
 **Layer3**
