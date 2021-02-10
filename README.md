@@ -8,7 +8,7 @@ The circuit will give two set of outputs 5V and 3.3V . For further controlling t
 
 
 **Layer2**
-./PCB Pics/layer2.PNG
+![plot](./PCB Pics/layer2.PNG)
 
 
 **Layer3**
